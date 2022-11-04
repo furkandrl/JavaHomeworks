@@ -1,0 +1,3 @@
+Chinese zodiac, or shengxiao (/shnng-sshyao/ 'born resembling'), is represented by 12 zodiac animals. In order,  they are the Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Goat, Monkey, Rooster, Dog, and Pig.
+
+Chinese zodiac years begin/end at Chinese New Year (in January/February). Each year in the repeating zodiac cycle of 12 years is represented by a zodiac animal, each with its own reputed attributes.
