@@ -1,0 +1,1 @@
+Checks if the username and password is correct and gives option to change the password if it's forgotten.
