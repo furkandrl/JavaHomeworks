@@ -1,0 +1,1 @@
+A program taht prints the prime numbers in range of 1 - 100.
