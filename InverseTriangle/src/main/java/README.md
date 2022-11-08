@@ -1,0 +1,1 @@
+A program that takes number of lines from the user and draws an inverse triangle.
