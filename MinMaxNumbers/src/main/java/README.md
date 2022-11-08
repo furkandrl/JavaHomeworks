@@ -1,0 +1,1 @@
+It takes n numbers of integers from keyboard input and finds smallest and greatest number.
