@@ -1,0 +1,1 @@
+A program that takes power of a number recursively.
