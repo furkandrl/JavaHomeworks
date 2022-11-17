@@ -1,0 +1,1 @@
+Dizinin içinde her sayının kaç kez ettiğini yazan program.
