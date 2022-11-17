@@ -1,0 +1,1 @@
+Kullanıcıdan dizi boyutu ve diziye eklenecek elemanlar alınır ve bu elemanlar sıralanır.
